@@ -1,0 +1,24 @@
+.avatar {
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+}
+
+.avatar-box {
+    text-align: center;
+}
+
+.cats {
+    width: 100%;
+    height: 300px;
+}
+
+.post-icerik {
+    background-color: lightgray;
+
+}
+
+.footer-row{
+    height: 200px;
+    padding-top: 15px;
+}
